@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bijaya Paudel and I'm a noob developer, from Himalayas.</h2>
+<h2 align="left">Hi 👋! My name is Bijaya Paudel and I'm a developer, from Himalayas.</h2>
 
 ###
 
